@@ -144,5 +144,6 @@ FSCN/Barras/segmentation-tf_original.ipynb
 FSCN/Barras/segmentation-tf.ipynb
 FSCN/Barras/Segmentation.ipynb
 FSCN/Barras/testing.ipynb
+FSCN/Barras/*.png
 FSCN/Lineas/test_procesado/*
 FSCN/Lineas/iPre.ipynb
