@@ -128,3 +128,20 @@ dmypy.json
 # Other
 scripts-for-learning/MNIST/*
 scripts-for-learning/.ipynb_checkpoints
+
+FSCN/Codigos y BD anteriores-20230620T204201Z-001.zip
+FSCN/Barras/DOCS/*
+FSCN/Barras/ejemplos/*
+FSCN/Barras/imagenes/*
+FSCN/Barras/Informe/*
+FSCN/Barras/models/*
+FSCN/Barras/Final Model.ipynb
+FSCN/Barras/FSCN1.ipynb
+FSCN/Barras/FSCN2_viejo.ipynb
+FSCN/Barras/FSCN2.ipynb
+FSCN/Barras/segmentation-tf_original.ipynb
+FSCN/Barras/segmentation-tf.ipynb
+FSCN/Barras/Segmentation.ipynb
+FSCN/Barras/testing.ipynb
+FSCN/Lineas/test_procesado/*
+FSCN/Lineas/iPre.ipynb
